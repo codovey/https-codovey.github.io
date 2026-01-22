@@ -15,6 +15,9 @@ rouge-theme: github.css
 bio-page-title: Resume
 bio-theme: bio/resume.html
 
+def test_dummy():
+    pass
+## I cannot stand this site
 # DON'T CHANGE THE FOLLOWING (unless you know what you're doing)
 markdown: kramdown
 kramdown:
