@@ -1,4 +1,14 @@
+---
+layout: essay
+type: essay
+title: "A Nightmare, or a Dream in the Making"
+# All dates must be YYYY-MM-DD format!
+date: 2026-01-26
 published: true
+labels:
+  - Assignment
+  - Typescript
+  - Software Engineering
 ---
 
 ## A Nightmare, or a Dream in the Making
