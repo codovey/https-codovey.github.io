@@ -1,4 +1,5 @@
 published: true
+---
 
 ## A Nightmare, or a Dream in the Making
 One year of Java was enough for me to say I didn’t like it very much. From the moment I touched Eclipse IDE, I was already confused. Before that, the only programming language I was decent in was Scratch. Java was a whole different level of complexity. There were endless functions I often forgot existed. I could make it work, but it was never easy.
