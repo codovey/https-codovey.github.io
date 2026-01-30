@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: projects/CHKN.png
+image: img/CHKN.png
 title: "CHKN News Network"
 date: 2024
 published: true
