@@ -55,17 +55,6 @@
         ""
       ]
     },
-    {
-      "company": "",
-      "position": "",
-      "website": "",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    }
   ],
   ---
   "volunteer": [
@@ -78,20 +67,9 @@
       "summary": "volunteered in multiple health promotion fairs and presented topics to freshmen",
       "highlights": [
         "public speaking experience",
-        ""
+        
       ]
-    },
-    {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
-      "highlights": [
-        ""
-      ]
-    } 
+    }, 
   ],
   "awards": [
     {
@@ -100,12 +78,7 @@
       "awarder": "UH Manoa",
       "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
     },
-    {
-      "title": "",
-      "date": "",
-      "awarder": "",
-      "summary": ""
-    } 
+ 
   ],
   "references": [
     {
