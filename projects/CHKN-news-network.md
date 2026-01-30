@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/cotton/cotton-square.png
+image: projects/CHKN.png
 title: "Cotton"
 date: 2024
 published: true
@@ -10,3 +10,18 @@ labels:
   - Scratch
 summary: "A silly adlib style game from my AP Computer Science Principles class."
 ---
+## THE NEWS ROOM IS A DISASTER!
+
+Or, that's what Cinnamon thinks at least.
+Her girlfriend and brother star as the anchors of the popular news channel, CHKN. Typically, their stories are fairly reliable, but lately all of their stories have been scrambled! It's up to the player to save the day and fill in the blanks.
+
+The three characters are made from real chickens at my high school!
+
+## The Task at Hand
+Cinnamon prompts the player to enter words fitting her requirements, whether they be nouns or verbs.
+
+When she's asking for food choices, it's best to avoid certain topics...
+
+## A Brilliant News Report
+Once the player completes Cinnamon's request, the news is ready to roll!
+One of the most entertaining parts of the game is to create the most absurd stories ever based on
