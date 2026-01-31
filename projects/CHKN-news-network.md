@@ -30,4 +30,4 @@ One of the most entertaining parts of the game is to create the most absurd stor
 
 Creating this entire project was one of my favorite part of the class I took. Other projects were moreso follow the template, while this was an original creation based on everything I learned over the course of a year.
 
-### Play it here if you dare: https://scratch.mit.edu/projects/976408455/
+### Play it here if you dare: (https://scratch.mit.edu/projects/976408455/)
